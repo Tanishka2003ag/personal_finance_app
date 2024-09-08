@@ -16,4 +16,8 @@ Technologies Used :
 - Git : Version control for project management
 - GitHub : Repository hosting and collaboration
 
-
+Usage :
+-Launch the application and log in or register as a new user.
+-Add your income and expense records.
+-Set up budgets for different categories.
+-View financial reports to track your spending and income trends.
